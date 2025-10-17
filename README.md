@@ -1,2 +1,3 @@
 # myfirst
-this is myfirst repository
+this is myfirst repository.
+hai.
